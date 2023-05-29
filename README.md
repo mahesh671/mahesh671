@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via maheshkumarpadmanabhuni671@gmail.com
--
-- 
+
 
 <!---
 mahesh671/mahesh671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
