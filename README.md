@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mahesh671
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Veera Venkata Mahesh Kumar Padmanabhuni
+- 👀 I’m interested in Programming and Developing some short and funny Applications
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- This are programs asked in some compitations
+- 📫 Reach me via maheshkumarpadmanabhuni671@gmail.com
+-
 - 
 
 <!---
