@@ -82,7 +82,7 @@ I believe the future of AI lies in:
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *[add link](https://www.linkedin.com/in/padmanabhuni-veera-venkata-mahesh-kumar-37821b1a4/)*
+- 💼 LinkedIn: *[Profile](https://www.linkedin.com/in/padmanabhuni-veera-venkata-mahesh-kumar-37821b1a4/)*
 - 📧 Email: *maheshkumarpadmanabhuni671@gmail.com*
 - 🧑‍💻 GitHub: You’re already here 🙂
 
